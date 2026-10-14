@@ -1,5 +1,7 @@
 ## What this is
 
+> 📊 **[View the interactive dashboard](https://marialezapatag.github.io/dashboards/reddit.html)**
+
 A small project that demonstrates extracting stock tickers and computing sentiment from Reddit comments using an LLM‑powered pipeline. It includes a runnable Jupyter notebook that walks through the data‑loading, LLM extraction, sentiment mapping, basic daily aggregation and visualizations, plus a lightweight Python script intended to be submitted as a SLURM job on Leonardo.
 
 ### Stack
